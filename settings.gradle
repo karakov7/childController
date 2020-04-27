@@ -1,0 +1,2 @@
+rootProject.name='ChildController'
+include ':app'
